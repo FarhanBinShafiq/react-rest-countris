@@ -1,0 +1,16 @@
+.country{
+    background-color: lightslategray;
+    border: 3px solid aquamarine;
+    padding: 5px;
+    margin: 10px;
+    color: white ;
+    
+
+}
+
+.flag{
+    width: 400px;
+    height: 200px;
+}
+
+
