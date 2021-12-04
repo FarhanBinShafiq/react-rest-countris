@@ -17,7 +17,7 @@ const Countries = () => {
    
     return (
         <div>
-            <h1>Hello Form Countries:{countries.length}</h1>
+            <h1>Total Countries:{countries.length}</h1>
            
            
            <div className="country-container">
